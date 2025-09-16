@@ -73,5 +73,5 @@ Event "1" *-- "*" User : participants
 
 ## Author
 
-- **Name:** Alysson da Silva Tavares  
+- **Name:** Alysson Tavares  
 - **Course:** Programming Computational Solutions – UniRitter University
